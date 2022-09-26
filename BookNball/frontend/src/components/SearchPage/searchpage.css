@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,800");
+
+.searchPage__info {
+  padding: 20px;
+  color: black;
+}
+
+.searchPage__info > p {
+  margin-bottom: 10px;
+  font-size: 14px;
+  color: black;
+}
+
+.searchPage__info > h1 {
+  margin-bottom: 30px;
+  color: black;
+}
+
+.searchPage__info > button {
+  border-radius: 30px;
+  text-transform: inherit;
+  margin: 5px;
+  color: black;
+}
+
+/* p {
+  color: black;
+}
+*/
+/* body {
+  margin: 0;
+  text-align: center;
+} */
+
+h1.textsize {
+  font-family: "Montserrat";
+  font-size: 30px;
+  font-weight: 800;
+  margin-right: 855px;
+  color: rgb(99, 97, 97);
+}
+.googleMapContainer {
+  position: absolute;
+  top: 18%;
+  left: 70%;
+}
+@media screen and (max-width: 1062px) {
+  .textsize {
+    display: none;
+  }
+}
+.datesize {
+  font-size: 18px;
+}
+
+.searchPage {
+  color: black;
+}
